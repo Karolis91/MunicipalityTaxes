@@ -1,0 +1,25 @@
+{
+	"municipalityTaxList": [
+		{
+			"municipality": "Vilnius",
+			"dateFrom": "2019-01-03",
+			"dateTo": "2019-01-04",
+			"priority": "5",
+			"tax": "2.3"
+		},
+		{
+			"municipality": "Vilnius",
+			"dateFrom": "2019-01-04",
+			"dateTo": "2019-01-05",
+			"priority": "5",
+			"tax": "2.4"
+		},
+		{
+			"municipality": "Vilnius",
+			"dateFrom": "2019-01-05",
+			"dateTo": "2019-01-06",
+			"priority": "5",
+			"tax": "2.5"
+		}
+	]
+}
